@@ -1,5 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
+import { LAHMACUN_PURPLE } from './util/constants';
 
 export default function App() {
   return (
@@ -13,7 +14,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: LAHMACUN_PURPLE,
     alignItems: 'center',
     justifyContent: 'center',
   },
