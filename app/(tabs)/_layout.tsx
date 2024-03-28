@@ -16,7 +16,7 @@ export default function TabLayout() {
         }}
       />
       <Tabs.Screen
-        name="shows"
+        name="shows/shows"
         options={{
           title: 'Shows',
           headerShown: false,

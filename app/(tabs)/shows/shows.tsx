@@ -1,8 +1,8 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
-import { LAHMACUN_PURPLE } from '../../util/constants';
+import { LAHMACUN_PURPLE } from '../../../util/constants';
 
-const Donate = () => {
+const Shows = () => {
   return (
     <View style={styles.container}>
       <Text>Shows</Text>
@@ -20,4 +20,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default Donate;
+export default Shows;

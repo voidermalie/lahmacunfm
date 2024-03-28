@@ -1,4 +1,4 @@
-import { Link, Stack } from 'expo-router';
+/*import { Link, Stack } from 'expo-router';
 import { StyleSheet, Text, View } from 'react-native';
 
 
@@ -36,4 +36,4 @@ const styles = StyleSheet.create({
     fontSize: 14,
     color: '#2e78b7',
   },
-});
+});*/
