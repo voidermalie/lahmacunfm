@@ -2,6 +2,6 @@
 
 ## Run the app
 - 📀 Download the Expo Go app to your phone
-- 📀 Clone this project and install dependencies with 'yarn install'
+- 📀 Clone this project and install dependencies with 'yarn install's
 - 📀 Run 'npx expo start'
 - 📀 Scan the QR code, wait for the bundle and enjoy the app
