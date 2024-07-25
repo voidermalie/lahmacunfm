@@ -10,6 +10,8 @@
     "ts:check": "tsc"
   },
   "dependencies": {
+    "@react-native-firebase/analytics": "^20.3.0",
+    "@react-native-firebase/app": "^20.3.0",
     "braces": "^3.0.3",
     "expo": "~51.0.14",
     "expo-constants": "~16.0.2",
