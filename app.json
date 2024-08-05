@@ -17,8 +17,8 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.lahmacun.lahmacunfm",
-      "googleServicesFile": "./firebase/GoogleService-Info.plist"
+      "bundleIdentifier": "com.lahmacun.lahmacunfm"
+      //"googleServicesFile": "./firebase/GoogleService-Info.plist"
     },
     "android": {
       "adaptiveIcon": {
