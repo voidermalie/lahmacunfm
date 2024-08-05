@@ -18,7 +18,7 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.lahmacun.lahmacunfm"
-      //"googleServicesFile": "./firebase/GoogleService-Info.plist"
+      //"googleServicesFile": "GoogleServiceInfoPlist"
     },
     "android": {
       "adaptiveIcon": {
@@ -33,7 +33,6 @@
       "expo-router",
       "expo-font",
       "@react-native-firebase/app",
-      "@react-native-firebase/analytics",
       [
         "expo-build-properties",
         {
