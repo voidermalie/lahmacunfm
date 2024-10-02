@@ -20,6 +20,8 @@ export default {
         googleServicesFile: process.env.GoogleServiceInfoPlist
       },
       android: {
+        package: "com.lahmacun.lahmacunfm",
+        googleServicesFile: process.env.GoogleServicesFile,
         adaptiveIcon: {
           foregroundImage: "./assets/adaptive-icon.png",
           backgroundColor: "#d09cf8"
